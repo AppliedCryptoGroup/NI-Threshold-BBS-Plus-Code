@@ -1,3 +1,3 @@
 # Threshold BBS+ From Pseudorandom Correlations
 
-Implementation and experimental evaluations for the paper "Threshold BBS+ from Pseudorandom Correlation".
+Prototype implementation and experimental evaluations for the paper "Threshold BBS+ From Pseudorandom Correlations".
